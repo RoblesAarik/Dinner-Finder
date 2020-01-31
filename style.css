@@ -1,0 +1,14 @@
+#navBar {
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  border-radius: 25px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
